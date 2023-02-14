@@ -1,0 +1,14 @@
+.root {
+
+}
+
+.main-pane {
+  -fx-background-color: #2E294E;
+  -fx-font-size: 20px;
+  -fx-text-fill: white;
+}
+
+.label {
+   -fx-text-fill: white;
+}
+
